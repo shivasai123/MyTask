@@ -3,3 +3,5 @@ java
 spring
 hibernate
 webservices
+javascript
+html
