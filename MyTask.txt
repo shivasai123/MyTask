@@ -5,3 +5,4 @@ hibernate
 webservices
 javascript
 html
+angularJS
