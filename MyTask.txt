@@ -6,3 +6,4 @@ webservices
 javascript
 html
 angularJS
+angular 2.0
